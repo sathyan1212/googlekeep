@@ -1,9 +1,7 @@
 import React from 'react';
 import { List, ListItem, ListItemIcon, ListItemText } from '@mui/material';
 import { LightbulbOutlined as Lightbulb,SearchOutlined as Search,EditOutlined  as Edit,NotificationsActiveOutlined as NotificationsActive, ArchiveOutlined as Archive, DeleteOutlineOutlined as Delete } from '@mui/icons-material';
-import SearchIcon from '@mui/icons-material/Search';
-import EditIcon from '@mui/icons-material/Edit';
-import NotificationsActiveIcon from '@mui/icons-material/NotificationsActive';
+
 import { Link } from 'react-router-dom';
 
 const NavList = () => {
