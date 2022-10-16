@@ -1,6 +1,6 @@
 import React from 'react'
 import { AppBar, Toolbar, Typography, IconButton} from '@mui/material';
-import { HearingDisabled, Menu } from '@mui/icons-material';
+import {  Menu } from '@mui/icons-material';
 import { styled} from '@mui/material/styles';
 const Header = styled(AppBar)`
   z-index: 1201;
